@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 18.5" name="POS_HDDT">
+  <DataContextMoniker Name="/POS_HDDTDataContext" />
+  <nestedChildShapes>
+    <classShape Id="6d3c5324-3d8f-4c84-8b4a-6ba52a8f3294" absoluteBounds="0.75, 0.75, 2, 17.539614257812502">
+      <DataClassMoniker Name="/POS_HDDTDataContext/TBTrans_POS_HD" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d463a555-0571-4860-8ea3-946a072c22b4" absoluteBounds="0.765, 1.21, 1.9700000000000002, 16.9796142578125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="4b5d5e6d-c5b0-450b-82be-5eb075711ef9" absoluteBounds="3.75, 0.75, 2, 13.116681315104165">
+      <DataClassMoniker Name="/POS_HDDTDataContext/TBTrans_POS_DT" />
+      <nestedChildShapes>
+        <elementListCompartment Id="538035a4-ed2c-4722-bf24-9bd6f6e622fa" absoluteBounds="3.765, 1.21, 1.9700000000000002, 12.556681315104166" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

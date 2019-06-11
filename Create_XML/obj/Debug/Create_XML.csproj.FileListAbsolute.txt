@@ -1,0 +1,10 @@
+C:\Users\withawat.bun\Videos\Create_XML\Create_XML\bin\Debug\Create_XML.exe.config
+C:\Users\withawat.bun\Videos\Create_XML\Create_XML\bin\Debug\Create_XML.exe
+C:\Users\withawat.bun\Videos\Create_XML\Create_XML\bin\Debug\Create_XML.pdb
+C:\Users\withawat.bun\Videos\Create_XML\Create_XML\obj\Debug\Create_XML.csprojAssemblyReference.cache
+C:\Users\withawat.bun\Videos\Create_XML\Create_XML\obj\Debug\Create_XML.Form_Create_xml.resources
+C:\Users\withawat.bun\Videos\Create_XML\Create_XML\obj\Debug\Create_XML.Properties.Resources.resources
+C:\Users\withawat.bun\Videos\Create_XML\Create_XML\obj\Debug\Create_XML.csproj.GenerateResource.cache
+C:\Users\withawat.bun\Videos\Create_XML\Create_XML\obj\Debug\Create_XML.csproj.CoreCompileInputs.cache
+C:\Users\withawat.bun\Videos\Create_XML\Create_XML\obj\Debug\Create_XML.exe
+C:\Users\withawat.bun\Videos\Create_XML\Create_XML\obj\Debug\Create_XML.pdb
